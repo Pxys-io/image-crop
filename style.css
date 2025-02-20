@@ -1,0 +1,15 @@
+#imageContainer img {
+      max-width: 200px;
+      max-height: 150px;
+      margin: 5px;
+      cursor: pointer;
+    }
+
+    #cropCanvas {
+      border: 1px solid black;
+    }
+    #croppedImageContainer img{
+      max-width: 200px;
+      max-height: 150px;
+      margin: 5px;
+    }

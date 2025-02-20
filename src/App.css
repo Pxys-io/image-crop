@@ -1,0 +1,15 @@
+<diff path="src/App.css">
+--- a/src/App.css
++++ b/src/App.css
+@@ -116,4 +116,11 @@
+     .crop-button:hover, .close-button:hover {
+       background-color: #0056b3;
+     }
++
++    .error-message {
++      color: red;
++      margin-top: 10px;
++      text-align: center;
++      font-weight: bold;
++    }
+</diff>
